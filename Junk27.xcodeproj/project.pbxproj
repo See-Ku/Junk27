@@ -47,6 +47,7 @@
 		87CF3AC31C6B193000EA8165 /* Junk27UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Junk27UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		87CF3AC71C6B193000EA8165 /* Junk27UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Junk27UITests.swift; sourceTree = "<group>"; };
 		87CF3AC91C6B193000EA8165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87CF3AD51C6B21FB00EA8165 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		87CF3A9B1C6B192F00EA8165 = {
 			isa = PBXGroup;
 			children = (
+				87CF3AD51C6B21FB00EA8165 /* README.md */,
 				87CF3AA61C6B192F00EA8165 /* Junk27 */,
 				87CF3ABB1C6B192F00EA8165 /* Junk27Tests */,
 				87CF3AC61C6B193000EA8165 /* Junk27UITests */,
